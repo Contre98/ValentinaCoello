@@ -159,7 +159,6 @@
 
 .u-section-2 .u-text-1 {
   font-weight: 700;
-  width: auto;
   font-size: 1.5rem;
   margin: 53px 27px 0;
 }
@@ -167,7 +166,6 @@
 .u-section-2 .u-text-2 {
   font-size: 1.125rem;
   font-weight: normal;
-  width: auto;
   margin: 61px 0 0;
 }
 
@@ -250,6 +248,10 @@
     width: 300px;
     margin-left: 0;
     margin-right: 0;
+  }
+
+  .u-section-2 .u-text-2 {
+    width: auto;
   }
 
   .u-section-2 .u-layout-cell-2 {
